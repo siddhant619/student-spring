@@ -26,7 +26,7 @@ public class StudentApplication {
 	}
 
 	public static int test(int x) {
-		System.out.println("In test");
+		System.out.println("In int test ");
 		return 1;
 	}
 
