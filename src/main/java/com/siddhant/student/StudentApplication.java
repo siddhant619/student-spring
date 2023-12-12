@@ -25,6 +25,11 @@ public class StudentApplication {
 		System.out.println("hi frm hrishabh");
 	}
 
+	public static int test(int x) {
+		System.out.println("In test");
+		return 1;
+	}
+
 	public static void fun(Student s){
 		s.setName("xxx");
 		Course c= new Course();
