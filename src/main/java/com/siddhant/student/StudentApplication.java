@@ -24,6 +24,7 @@ public class StudentApplication {
 		}
 
 		System.out.println("Change made by branch 1");
+		System.out.println("hi frm hrishabh");
 	}
 
 	public static void fun(Student s){
