@@ -22,6 +22,7 @@ public class StudentApplication {
 		for(Course c: s.getCourses()){
 			System.out.println(c.getName());
 		}
+		System.out.println("hi frm hrishabh");
 	}
 
 	public static void fun(Student s){
