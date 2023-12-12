@@ -26,6 +26,10 @@ public class StudentApplication {
 		System.out.println("Change made by branch 1");
 		System.out.println("hi frm hrishabh");
 	}
+	public static int test() {
+		System.out.println("In test");
+		return 1;
+	}
 
 	public static void fun(Student s){
 		s.setName("xxx");
