@@ -27,7 +27,7 @@ public class StudentApplication {
 	public static void fun(Student s){
 		s.setName("xxx");
 		Course c= new Course();
-		c.setName("phy");
+		c.setName("physics");
 		s.setCourses(List.of(c));
 	}
 
