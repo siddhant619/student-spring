@@ -14,8 +14,7 @@ public class StudentApplication {
 
 		SpringApplication.run(StudentApplication.class, args);
 		Student s= new Student();
-		s.setName("Stanley and michael");
-
+		s.setName("Angela");
 		if(s.getCourses()!=null)
 		System.out.println(s.getCourses().size());
 		fun(s);
